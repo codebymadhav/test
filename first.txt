@@ -1,2 +1,1 @@
-hi there this is my first page.
-hi there this is my new added line.
+hi there 
